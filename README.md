@@ -10,3 +10,7 @@ contactform.php // Hook
 confirmation.html //Confirmation Page
 
 ```
+
+To see a full explination you can check out my full explination on my blog: sofarfromperfect.ca/blog/wordpress-php/php-contact-form
+
+Enjoy!!
