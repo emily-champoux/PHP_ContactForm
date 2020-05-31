@@ -11,4 +11,5 @@ confirmation.html //Confirmation Page
 
 ```
 
+To see a full explanation you can check it out [here](http://sofarfromperfect.ca/blog/wordpress-php/php-contact-form) 
 Enjoy!!
